@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+}
+p {
+    margin-top: 5px;
+    margin-bottom: 25px;
+    margin-right: 150px;
+    margin-left: 5px;
+}
+h1 {
+    text-transform: uppercase
+}
+h1,
+h2 {
+    color: red;
+}
+img {
+    padding-right: 30px;
+    padding-bottom: 50px;
+}
+.captioned {
+    padding-bottom: 0px;
+}
+#start {
+    padding-top: 70px;
+}
